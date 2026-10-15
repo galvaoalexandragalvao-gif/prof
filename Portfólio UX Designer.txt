@@ -1,0 +1,498 @@
+Portfólio UX Designer
+Ana Martins
+
+UX/UI Designer | Design Centrado no Usuário | Pesquisa, Prototipação e Experiência Digital
+
+📍 São Paulo, Brasil
+ 📧 ana.martins.design@email.com
+ 🌐 www.anamartinsux.com
+ 🔗 linkedin.com/in/anamartinsux
+
+Sobre Mim
+
+Sou UX Designer apaixonada por criar experiências digitais intuitivas, acessíveis e centradas nas necessidades dos usuários. Tenho experiência em pesquisa, arquitetura da informação, wireframes, prototipação e testes de usabilidade.
+
+Meu objetivo é transformar problemas complexos em soluções simples, gerando valor para usuários e negócios através do design.
+
+Principais Competências
+UX Research
+Design Thinking
+Arquitetura da Informação
+Wireframing
+Prototipação
+Design de Interação
+Testes de Usabilidade
+Design System
+Figma
+Adobe XD
+Miro
+Hotjar
+Projeto 1: FinControl
+Aplicativo de Gestão Financeira Pessoal
+Desafio
+
+Usuários encontravam dificuldade para controlar gastos mensais e criar hábitos financeiros saudáveis.
+
+Processo
+
+Pesquisa
+
+Entrevistas com 15 usuários.
+Questionários com 120 participantes.
+Análise de aplicativos concorrentes.
+
+Descobertas
+
+Falta de clareza nos relatórios.
+Excesso de funcionalidades complexas.
+Baixa motivação para registrar despesas.
+Solução
+
+Desenvolvimento de um aplicativo com:
+
+Dashboard simplificado.
+Metas financeiras gamificadas.
+Alertas inteligentes de gastos.
+Visualização clara de receitas e despesas.
+Resultados
++42% de retenção de usuários.
+-30% de abandono no primeiro mês.
+NPS de 78 pontos.
+Projeto 2: SaúdeJá
+Plataforma de Agendamento Médico
+Desafio
+
+Pacientes levavam muito tempo para localizar especialistas e concluir agendamentos.
+
+Pesquisa
+Shadowing de pacientes.
+Entrevistas com recepcionistas.
+Mapeamento da jornada do usuário.
+Problemas Identificados
+Processo longo.
+Filtros pouco eficientes.
+Falta de informações sobre médicos.
+Solução
+
+Redesenho completo da experiência:
+
+Busca inteligente.
+Filtros por especialidade e convênio.
+Perfil detalhado dos profissionais.
+Agendamento em apenas 3 etapas.
+Resultados
+65% menos tempo para concluir agendamentos.
+Aumento de 38% na conversão.
+Redução de 25% em cancelamentos.
+Projeto 3: EcoShop
+E-commerce Sustentável
+Desafio
+
+Melhorar a experiência de compra e aumentar a taxa de conversão.
+
+Processo UX
+
+Etapa 1 Pesquisa comportamental.
+
+Etapa 2 Mapas de calor e análise de sessões.
+
+Etapa 3 Testes A/B.
+
+Solução
+Novo fluxo de checkout.
+Design responsivo.
+Recomendações personalizadas.
+Selo visual de impacto ambiental.
+Resultados
++28% nas vendas.
++33% no ticket médio.
+-18% no abandono de carrinho.
+Metodologia de Trabalho
+Descoberta
+Entrevistas
+Benchmarking
+Personas
+Definição
+Jornada do usuário
+Mapeamento de problemas
+Priorização
+Desenvolvimento
+Wireframes
+Protótipos
+Fluxos de navegação
+Validação
+Testes de usabilidade
+Análise de métricas
+Iteração contínua
+Formação
+Bacharelado em Design Digital
+
+Universidade Paulista (2019-2023)
+
+Cursos Complementares
+UX Design Professional Certificate
+Design Thinking
+UX Research Avançado
+Acessibilidade Digital
+Depoimento
+
+"Ana liderou o redesenho da nossa plataforma digital e conseguiu aumentar significativamente a satisfação dos usuários. Sua capacidade de transformar dados em soluções práticas foi essencial para o sucesso do projeto."
+
+Carlos Ferreira
+ Head de Produto - Tech Solutions
+
+Contato
+
+Estou disponível para projetos de UX/UI, pesquisa com usuários, consultoria em experiência digital e desenvolvimento de produtos digitais.
+
+📧 ana.martins.design@email.com
+ 📱 (11) 99999-9999
+ 🌐 www.anamartinsux.com
+
+Explicação
+
+Este portfólio foi estruturado seguindo o padrão utilizado por profissionais de UX: apresentação pessoal, competências, estudos de caso com problema-processo-solução-resultados, metodologia e contato. Os números e projetos são fictícios, mas foram construídos para parecerem realistas e profissionais.
+
+Forneça seus comentários sobre o BizChat
+You said:
+p eu dar p o clientes hipotetico
+Copilot said:
+
+Perfeito. Se for para apresentar a clientes hipotéticos, o ideal é parecer um trabalho real de consultoria UX, mostrando seu raciocínio e processo, não apenas telas bonitas.
+
+PORTFÓLIO UX DESIGNER
+João Silva
+UX/UI Designer | Pesquisa, Estratégia e Experiências Digitais
+
+Transformo problemas complexos em experiências simples, intuitivas e centradas no usuário.
+
+Especialidades
+
+UX Research
+UI Design
+Design Thinking
+Wireframing
+Prototipação
+Testes de Usabilidade
+Design Systems
+Figma
+CASE 01
+Banco Fácil
+Redesign de aplicativo bancário
+Contexto
+
+O Banco Fácil identificou uma queda na utilização do aplicativo por clientes acima de 40 anos. Diversas reclamações apontavam dificuldades para encontrar funções básicas, como transferências e pagamento de contas.
+
+Meu Papel
+
+UX Designer responsável pela pesquisa, definição da solução e prototipação.
+
+Processo
+Pesquisa
+12 entrevistas com usuários.
+Análise de avaliações na App Store.
+Benchmark com bancos digitais.
+Principais Descobertas
+Menus confusos.
+Excesso de informações na página inicial.
+Processo de pagamento muito complexo.
+Solução
+Nova arquitetura da informação.
+Home simplificada.
+Botões de ação rápida.
+Fluxo de pagamento reduzido para 3 etapas.
+Resultados
+Redução de 45% no tempo de conclusão de pagamentos.
+Satisfação do usuário aumentando de 6,8 para 8,7.
+Queda de 32% nas solicitações de suporte.
+CASE 02
+MedConnect
+Plataforma de agendamento médico
+Contexto
+
+A startup MedConnect precisava aumentar a conversão de usuários que desistiam do agendamento antes da finalização.
+
+Problema
+
+Apenas 38% dos usuários concluíam o processo.
+
+Processo UX
+Pesquisa
+Análise comportamental.
+Jornada do usuário.
+Testes de usabilidade.
+Insights
+
+Os usuários não conseguiam:
+
+Encontrar especialistas rapidamente.
+Comparar médicos.
+Entender a disponibilidade de horários.
+Solução
+
+Redesenho completo da experiência de agendamento.
+
+Incluindo:
+
+Busca inteligente.
+Filtros avançados.
+Calendário simplificado.
+Informações claras dos profissionais.
+Resultados
+Conversão aumentada para 67%.
+Redução de 50% no abandono.
+Tempo de agendamento reduzido pela metade.
+CASE 03
+EcoMarket
+E-commerce sustentável
+Contexto
+
+O EcoMarket possuía muito tráfego, porém vendas abaixo do esperado.
+
+Objetivo
+
+Melhorar a experiência de compra e aumentar as conversões.
+
+Etapas
+Descoberta
+Entrevistas com consumidores.
+Heatmaps.
+Pesquisa de satisfação.
+Definição
+
+Criação de:
+
+Personas.
+Jornada do usuário.
+Fluxo de checkout.
+Solução
+Novo sistema de busca.
+Checkout em uma página.
+Recomendações personalizadas.
+Melhor hierarquia visual.
+Resultados
+Aumento de 29% nas vendas.
+Crescimento de 21% no ticket médio.
+Redução de 35% no abandono do carrinho.
+Minha Metodologia
+1. Descobrir
+
+Entender necessidades dos usuários e do negócio.
+
+2. Definir
+
+Mapear problemas e oportunidades.
+
+3. Desenvolver
+
+Criar soluções por meio de wireframes e protótipos.
+
+4. Validar
+
+Testar e melhorar continuamente.
+
+Ferramentas
+Figma
+FigJam
+Miro
+Adobe XD
+Notion
+Maze
+Hotjar
+Depoimento Fictício
+
+"João demonstrou grande capacidade analítica e conseguiu transformar problemas complexos em soluções intuitivas. Seu trabalho gerou melhorias significativas na experiência dos nossos clientes."
+
+Mariana Costa
+ Head de Produto | MedConnect
+
+Contato
+
+📧 joao.silva.ux@email.com
+
+📱 (71) 99999-9999
+
+🌐 www.joaosilvaux.com
+
+🔗 LinkedIn: linkedin.com/in/joaosilvaux
+
+Explicação
+
+Este modelo foi estruturado exatamente como os portfólios de UX mais valorizados por recrutadores e clientes: problema → pesquisa → processo → solução → resultados. Mesmo sendo hipotético, ele transmite profissionalismo e mostra sua capacidade de pensamento estratégico em UX.
+
+Forneça seus comentários sobre o BizChat
+You said:
+Inclua uma proposta de serviços e valores
+Copilot said:
+
+Ótima ideia. Para clientes hipotéticos, incluir uma seção de serviços e preços deixa o portfólio mais profissional e mostra como você se posiciona no mercado.
+
+PROPOSTA DE SERVIÇOS UX/UI
+João Silva
+
+UX/UI Designer Freelancer
+
+Ajudo empresas, startups e empreendedores a criar produtos digitais intuitivos, modernos e focados na conversão e satisfação dos usuários.
+
+Serviços
+1. Auditoria UX
+
+Análise completa de sites, aplicativos ou sistemas existentes.
+
+Inclui
+Avaliação heurística
+Identificação de problemas de usabilidade
+Relatório de melhorias
+Recomendações priorizadas
+Investimento
+
+A partir de R$ 800
+
+2. Pesquisa com Usuários
+
+Descobrir necessidades, dores e oportunidades de melhoria.
+
+Inclui
+Entrevistas
+Personas
+Jornada do usuário
+Relatório de insights
+Investimento
+
+R$ 1.500 a R$ 3.000
+
+3. Wireframes e Fluxos
+
+Estruturação da experiência antes do desenvolvimento visual.
+
+Inclui
+Fluxo de navegação
+Wireframes de baixa fidelidade
+Arquitetura da informação
+Investimento
+
+A partir de R$ 1.200
+
+4. Design de Interfaces (UI)
+
+Criação de layouts modernos e responsivos.
+
+Inclui
+Telas para desktop
+Telas para mobile
+Componentes visuais
+Design System básico
+Investimento
+
+A partir de R$ 2.500
+
+5. Protótipo Interativo
+
+Simulação navegável para validação da experiência.
+
+Inclui
+Protótipos no Figma
+Fluxos funcionais
+Apresentação para stakeholders
+Investimento
+
+A partir de R$ 1.000
+
+6. Projeto UX Completo
+
+Solução ponta a ponta.
+
+Inclui
+
+✅ Pesquisa
+
+✅ Personas
+
+✅ Jornada do usuário
+
+✅ Wireframes
+
+✅ Interface visual
+
+✅ Protótipos
+
+✅ Testes de usabilidade
+
+Investimento
+
+Landing Page: R$ 3.500
+
+Website Institucional: R$ 5.000
+
+Sistema Web: R$ 8.000+
+
+Aplicativo Mobile: R$ 10.000+
+
+Pacotes Mais Contratados
+Pacote Start
+
+Ideal para pequenos negócios.
+
+Diagnóstico UX
+Wireframe
+Até 5 telas
+Valor
+
+R$ 2.500
+
+Pacote Business
+
+Ideal para startups.
+
+Pesquisa
+Wireframes
+UI Design
+Protótipo
+Valor
+
+R$ 5.900
+
+Pacote Premium
+
+Experiência completa.
+
+Pesquisa aprofundada
+Benchmark
+Design System
+UI Design
+Protótipo navegável
+Testes de usabilidade
+Valor
+
+R$ 12.000
+
+Diferenciais
+
+✅ Processo centrado no usuário
+
+✅ Entrega organizada em Figma
+
+✅ Comunicação transparente
+
+✅ Apresentação profissional do projeto
+
+✅ Reuniões de alinhamento
+
+✅ Suporte pós-entrega por 15 dias
+
+Chamada Final
+
+Quer melhorar a experiência dos seus usuários e aumentar os resultados do seu produto digital?
+
+Entre em contato para uma proposta personalizada.
+
+📧 joao.silva.ux@email.com
+
+📱 (71) 99999-9999
+
+🌐 www.joaosilvaux.com
+
+Essa tabela de valores está alinhada com um UX Designer freelancer iniciante/intermediário no Brasil e funciona muito bem para um portfólio fictício voltado à captação de clientes.
+
+Forneça seus comentários sobre o BizChat
+Transforme em uma proposta comercialCrie uma tabela de preços visualAdicione prazo e condições de pagamento
